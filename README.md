@@ -9,12 +9,10 @@
 - Simulation is on EUV lithography model considering mask 3D effect.
 - Hotspot information is obtained with the following OPC->Child Models for Process Window->PV Band Simulation
 - Only EPE, Bridging and Necking defects are considered and recorded.
-
-## Acknowledgement
-
-- [ICCAD2016Contest link](https://cad-contest-2016.el.cycu.edu.tw/CAD-contest-at-ICCAD2016/)
+- [ICCAD2016Contest](https://cad-contest-2016.el.cycu.edu.tw/CAD-contest-at-ICCAD2016/)
 
 ## References
 
-- If you find the benchmark helpful in your research, please cite our research at
+- Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu, “Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning”, arXiv preprint arXiv:1807.06446, 2018.
 
+- Ran Chen, Wei Zhong, Haoyu Yang, Hao Geng, Xuan Zeng, Bei Yu, “Faster Region-based Hotspot Detection”, ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, June 2–6, 2019.
