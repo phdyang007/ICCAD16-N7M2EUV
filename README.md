@@ -13,6 +13,6 @@
 
 ## References
 
-- Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu, “Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning”, arXiv preprint arXiv:1807.06446, 2018.
+- Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu, "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning", arXiv preprint arXiv:1807.06446, 2018.
 
-- Ran Chen, Wei Zhong, Haoyu Yang, Hao Geng, Xuan Zeng, Bei Yu, “Faster Region-based Hotspot Detection”, ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, June 2–6, 2019.
+- Ran Chen, Wei Zhong, Haoyu Yang, Hao Geng, Xuan Zeng, Bei Yu, "Faster Region-based Hotspot Detection", ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, June 2–6, 2019.
