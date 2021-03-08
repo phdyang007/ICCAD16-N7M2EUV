@@ -15,4 +15,4 @@
 
 - Ran Chen, Wei Zhong, Haoyu Yang, Hao Geng, Xuan Zeng, Bei Yu, "Faster Region-based Hotspot Detection", ACM/IEEE Design Automation Conference (DAC), Las Vegas, NV, June 2–6, 2019.
 
-- Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu, "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning", arXiv preprint arXiv:1807.06446, 2018.
+- Haoyu Yang, Shuhe Li, Cyrus Tabery, Bingqing Lin and Bei Yu, "Bridging the Gap Between Layout Pattern Sampling and Hotspot Detection via Batch Active Learning",  IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD). [Early Access](https://ieeexplore.ieee.org/document/9164899)
